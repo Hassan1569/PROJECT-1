@@ -1,1 +1,1 @@
-# PROJECT-1
+Zara Therapy Clinic is a front-end web application designed to provide users with a seamless experience for booking therapy sessions and accessing mental health resources. Built using HTML, CSS, JavaScript, and Bootstrap, the application features a responsive design that ensures usability across devices. Key functionalities include user registration, appointment scheduling, therapist profiles, and a resource library filled with helpful materials. The intuitive interface aims to create a supportive environment for clients seeking therapy services.
